@@ -15,7 +15,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Commodore - C64 (Frodo) V4_2</summary>
-		<description lang="en_GB">Supported files: .d64, .t64, .x64, .p00, .lnx, .zip</description>
+		<description lang="en_GB">Frodo is a free and portable C64 emulator.
+
+Supported files: .d64, .t64, .x64, .p00, .lnx, .zip</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.frodo</source>
