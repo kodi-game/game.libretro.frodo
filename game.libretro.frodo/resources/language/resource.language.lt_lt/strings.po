@@ -18,6 +18,16 @@ msgstr ""
 "19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
 "1 : 2);\n"
 
+msgctxt "Addon Summary"
+msgid "Commodore - C64 (Frodo) V4_2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Frodo is a free and portable C64 emulator.
+
+Supported files: .d64, .t64, .x64, .p00, .lnx, .zip"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

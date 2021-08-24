@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n == 0 || n % 100 >= 2 && "
 "n % 100 <= 19) ? 1 : 2);\n"
 
+msgctxt "Addon Summary"
+msgid "Commodore - C64 (Frodo) V4_2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Frodo is a free and portable C64 emulator.
+
+Supported files: .d64, .t64, .x64, .p00, .lnx, .zip"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

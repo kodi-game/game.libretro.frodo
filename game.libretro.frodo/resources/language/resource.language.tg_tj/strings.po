@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgctxt "Addon Summary"
+msgid "Commodore - C64 (Frodo) V4_2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Frodo is a free and portable C64 emulator.
+
+Supported files: .d64, .t64, .x64, .p00, .lnx, .zip"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
