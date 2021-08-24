@@ -20,8 +20,6 @@ Supported files: .d64, .t64, .x64, .p00, .lnx, .zip</description>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.frodo</source>
 		<summary lang="en_GB">Commodore - C64 (Frodo) V4_2</summary>
-		<description lang="en_GB">Frodo is a free and portable C64 emulator.
-
-Supported files: .d64, .t64, .x64, .p00, .lnx, .zip</description>
+		<description lang="en_GB">Frodo is a free and portable C64 emulator.</description>
 	</extension>
 </addon>
