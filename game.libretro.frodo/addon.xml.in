@@ -20,5 +20,7 @@
 		<source>https://github.com/kodi-game/game.libretro.frodo</source>
 		<summary lang="en_GB">Commodore - C64 (Frodo) V4_2</summary>
 		<description lang="en_GB">Frodo is a free and portable emulator for the Commodore 64, an 8-bit home computer introduced in 1982 by Commodore International.</description>
+		<description lang="ko_KR">Frodo는 Commodore International에서 1982년에 도입한 8비트 가정용 컴퓨터인 Commodore 64용 무료 휴대용 에뮬레이터입니다.</description>
+		<description lang="zh_CN">Frodo 是 Commodore International 于1982年推出的8位家用计算机 Commodore 64 的免费便携式仿真器。</description>
 	</extension>
 </addon>
