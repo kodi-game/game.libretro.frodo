@@ -1,1 +1,1 @@
-frodo https://github.com/libretro/frodo-libretro/archive/1ad1ffa9897061f0fbc7cccd4c14283f66e9107f.tar.gz
+frodo https://github.com/libretro/frodo-libretro/archive/78e69f1295937fa0a609873fe932ba7ed816cd60.tar.gz
