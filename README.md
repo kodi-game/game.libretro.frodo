@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.frodo/resources/icon.png)
+![Commodore - C64 (Frodo) icon](game.libretro.frodo/resources/icon.png)
 
 ### Fanart
 
