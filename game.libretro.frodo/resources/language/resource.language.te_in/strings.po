@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Commodore - C64 (Frodo) V4_2"
+msgid "Commodore - C64 (Frodo)"
 msgstr ""
 
 msgctxt "Addon Description"
