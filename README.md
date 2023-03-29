@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.frodo.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.frodo)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.frodo?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-frodo)
-
 # Commodore - C64 (Frodo)
 
 ### Description
