@@ -1,0 +1,26 @@
+From cd20208cb3e5990d8599035baf04c9485c92e39e Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 7 Dec 2023 12:26:30 -0800
+Subject: [PATCH] Fix segfault when logging input descriptors
+
+---
+ libretro/core/libretro.cpp | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/libretro/core/libretro.cpp b/libretro/core/libretro.cpp
+index 562cd0e..efc00e2 100644
+--- a/libretro/core/libretro.cpp
++++ b/libretro/core/libretro.cpp
+@@ -196,7 +196,8 @@ void retro_init(void)
+ 		{ 0, RETRO_DEVICE_JOYPAD, 0, RETRO_DEVICE_ID_JOYPAD_R2, "R2" },
+ 		{ 0, RETRO_DEVICE_JOYPAD, 0, RETRO_DEVICE_ID_JOYPAD_L2, "L2" },
+ 		{ 0, RETRO_DEVICE_JOYPAD, 0, RETRO_DEVICE_ID_JOYPAD_R3, "R3" },
+-		{ 0, RETRO_DEVICE_JOYPAD, 0, RETRO_DEVICE_ID_JOYPAD_L3, "L3" }
++		{ 0, RETRO_DEVICE_JOYPAD, 0, RETRO_DEVICE_ID_JOYPAD_L3, "L3" },
++		{ 0 }
+ 	};
+ 	environ_cb(RETRO_ENVIRONMENT_SET_INPUT_DESCRIPTORS, &inputDescriptors);
+ #ifndef NO_LIBCO
+-- 
+2.34.1
+
