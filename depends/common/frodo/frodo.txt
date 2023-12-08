@@ -1,1 +1,1 @@
-frodo https://github.com/garbear/frodo-libretro/archive/cd20208cb3e5990d8599035baf04c9485c92e39e.tar.gz
+frodo https://github.com/kodi-game/frodo-libretro/archive/cd20208cb3e5990d8599035baf04c9485c92e39e.tar.gz
