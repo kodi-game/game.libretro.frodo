@@ -36,6 +36,7 @@
 		<description lang="es_ES">Frodo es un emulador gratuito y portátil para el Commodore 64, un ordenador doméstico de 8 bits presentado en 1982 por Commodore International.</description>
 		<description lang="it_IT">Frodo è un emulatore gratuito e portatile per il Commodore 64, un home computer a 8 bit introdotto nel 1982 da Commodore International.</description>
 		<description lang="ko_KR">Frodo는 Commodore International에서 1982년에 도입한 8비트 가정용 컴퓨터인 Commodore 64용 무료 휴대용 에뮬레이터입니다.</description>
+		<description lang="sl_SI">Frodo je brezplačen in prenosljiv emulator za Commodore 64, 8-bitni domači računalnik, ki ga je leta 1982 predstavil Commodore International.</description>
 		<description lang="zh_CN">Frodo 是 Commodore International 于1982年推出的8位家用计算机 Commodore 64 的免费便携式仿真器。</description>
 	</extension>
 </addon>
