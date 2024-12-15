@@ -25,10 +25,10 @@ msgctxt "Addon Description"
 msgid "Frodo is a free and portable emulator for the Commodore 64, an 8-bit home computer introduced in 1982 by Commodore International."
 msgstr "Frodo è un emulatore gratuito e portatile per il Commodore 64, un home computer a 8 bit introdotto nel 1982 da Commodore International."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Internal Resolution"
 msgstr "Risoluzione interna"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
